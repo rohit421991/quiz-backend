@@ -20,3 +20,14 @@ G:\Studies\Angular\quiz\backend\Quiz\Quiz\obj\Debug\netcoreapp2.0\Quiz.AssemblyI
 G:\Studies\Angular\quiz\backend\Quiz\Quiz\obj\Debug\netcoreapp2.0\Quiz.AssemblyInfo.cs
 G:\Studies\Angular\quiz\backend\Quiz\Quiz\obj\Debug\netcoreapp2.0\Quiz.dll
 G:\Studies\Angular\quiz\backend\Quiz\Quiz\obj\Debug\netcoreapp2.0\Quiz.pdb
+G:\Studies\.Net Core\QuizBackend\Quiz\Quiz\bin\Debug\netcoreapp2.0\Quiz.deps.json
+G:\Studies\.Net Core\QuizBackend\Quiz\Quiz\bin\Debug\netcoreapp2.0\Quiz.runtimeconfig.json
+G:\Studies\.Net Core\QuizBackend\Quiz\Quiz\bin\Debug\netcoreapp2.0\Quiz.runtimeconfig.dev.json
+G:\Studies\.Net Core\QuizBackend\Quiz\Quiz\bin\Debug\netcoreapp2.0\Quiz.dll
+G:\Studies\.Net Core\QuizBackend\Quiz\Quiz\bin\Debug\netcoreapp2.0\Quiz.pdb
+G:\Studies\.Net Core\QuizBackend\Quiz\Quiz\obj\Debug\netcoreapp2.0\Quiz.csprojAssemblyReference.cache
+G:\Studies\.Net Core\QuizBackend\Quiz\Quiz\obj\Debug\netcoreapp2.0\Quiz.csproj.CoreCompileInputs.cache
+G:\Studies\.Net Core\QuizBackend\Quiz\Quiz\obj\Debug\netcoreapp2.0\Quiz.AssemblyInfoInputs.cache
+G:\Studies\.Net Core\QuizBackend\Quiz\Quiz\obj\Debug\netcoreapp2.0\Quiz.AssemblyInfo.cs
+G:\Studies\.Net Core\QuizBackend\Quiz\Quiz\obj\Debug\netcoreapp2.0\Quiz.dll
+G:\Studies\.Net Core\QuizBackend\Quiz\Quiz\obj\Debug\netcoreapp2.0\Quiz.pdb
