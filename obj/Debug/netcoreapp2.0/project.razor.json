@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "g:\\Studies\\Angular\\quiz\\backend\\Quiz\\Quiz\\Quiz.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.0",
+    "LanguageVersion": "2.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.0"
+      }
+    ]
+  }
+}
