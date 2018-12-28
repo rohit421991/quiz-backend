@@ -23,7 +23,14 @@ namespace Quiz.Controllers
         [HttpGet]
         public IEnumerable<Question> Get()
         {
-            return context.Questions;
+            try
+            {
+                return context.Questions;
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
         }
 
         [HttpGet("{quizId}")]
